@@ -1,4 +1,4 @@
-Bethereum Betting application works like normal bettinhg but  with inclusion of smart contract and Ethereeum into in.
+Bethereum Betting application works like normal betting but  with inclusion of smart contract and Ethereeum into in.
 
 Online Admin can only declare the matches and match results
 
