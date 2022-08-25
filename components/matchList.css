@@ -1,0 +1,20 @@
+.lfm{
+    width:180px;
+    clear:left;
+    text-align:center;
+    padding-right:5px;
+}
+
+.ifm,.lfm{
+    float:left;
+}
+
+.ism
+{
+    float:center;
+}
+
+.modal-header
+{
+    background-color: #ffe743;
+}

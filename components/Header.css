@@ -1,0 +1,46 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.navbar
+{
+    display:flex;
+    background-color: #120907;
+    justify-content: space-between;
+    height:64px;
+    align-items: center;
+}
+.navname
+{
+    margin-left: 90px;
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.navButton
+{
+    margin-right:90px;
+}
+
+button {
+    background-color: #fffaf2; /* Green */
+    border: none;
+    color: black;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    font-weight:bold;
+    cursor:pointer;
+  }
+h1{
+    color:black;
+}
+
+p.currentAcc{
+    color:white
+}
