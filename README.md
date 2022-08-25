@@ -4,7 +4,7 @@ Online Admin can only declare the matches and match results
 
 The Ethereuem is sent is respective accounts based on the winning team.
 
-mainly developed using (ehers.js,React,Django,Solidity)
+mainly developed using (ethers.js,React,Django,Solidity)
 
 Solidity-->Contract developement
 
